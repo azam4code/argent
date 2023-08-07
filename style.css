@@ -661,7 +661,7 @@ textarea:focus {
     }
 
     .hero-text {
-        font-size: 1.8vw;
+        font-size: 1.5vw;
         line-height: 2vw;
         margin-bottom: 1vw;
         display: flex;
@@ -671,7 +671,7 @@ textarea:focus {
 
     .hero-btn {
         gap: 12px;
-        font-size: 2vw;
+        font-size: 1.8vw;
         padding-left: 2.5vw;
         gap: 1vw
     }

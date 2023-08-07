@@ -369,7 +369,7 @@ textarea:focus {
     font-weight: 600;
     word-break: break-word;
     color: #233655;
-    font-family: "Hellix";
+    font-family: "Hellix", sans-serif;
     letter-spacing: 3px;
     word-spacing: 5px;
     margin-bottom: 20px;

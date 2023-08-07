@@ -634,9 +634,9 @@ textarea:focus {
     }
 
     .base-container-2 .card {
-      width: 100%; 
+        width: 100%;
         margin: 0 auto;
-        padding:25px;
+        padding: 25px;
         gap: 10px;
         border: 3px solid rgba(24, 59, 86, 0.15);
     }
@@ -825,58 +825,73 @@ textarea:focus {
     .base-container-2 .nav-items {
         gap: 35px;
     }
+
     .base-container-2 .support-link a img {
         width: 30px;
         height: 30px;
     }
+
     .base-container-2 .support-link a {
         font-size: 18px;
         letter-spacing: 2px;
     }
+
     .slider.version-2-slider .swiper {
         height: 70px;
     }
-     .slider.version-2-slider p {
+
+    .slider.version-2-slider p {
         font-size: 22px;
         height: 70px;
         line-height: 60px;
     }
+
     .mt-9.v-2-mt {
         margin-top: 90px;
     }
+
     .base-container-2 .hero-text {
         font-size: 24px;
-    line-height: 22px;
-    margin-bottom: 22px;
+        line-height: 22px;
+        margin-bottom: 22px;
     }
-    .base-container-2 .hero-btn { 
+
+    .base-container-2 .hero-btn {
         font-size: 28px;
         padding-left: 40px;
         gap: 12px;
     }
+
     .base-container-2 .hero-btn img {
         width: 40px;
     }
+
     .base-container-2 .sec-title h2 {
         font-size: 3rem;
     }
+
     .sec-title p {
         font-size: 1.8rem;
     }
+
     .header {
         padding: 20px 0;
     }
+
     .base-container-2 .card-img {
         width: 50px;
     }
+
     .base-container-2 .card-text {
         font-size: 16px;
         line-height: 1;
     }
+
     .base-container-2 .card-title {
         font-size: 2.3rem;
         margin: 20px 0;
     }
+
     .base-container-2 .badge {
         position: absolute;
         top: 24px;
@@ -887,27 +902,33 @@ textarea:focus {
         width: 50%;
         padding: 5px;
     }
+
     .base-container-2 .card-btn {
         font-size: 25px;
         gap: 10px;
     }
+
     .base-container-2 .card-btn img {
         width: 22px;
     }
+
     .base-container-2 .footer-logo img {
         width: 190px;
     }
-    .base-container-2  .footer-heading {
+
+    .base-container-2 .footer-heading {
         font-size: 24px;
         letter-spacing: 2px;
         margin-bottom: 20px;
     }
+
     .base-container-2 .footer-links a {
         font-size: 16px;
         line-height: 2;
         letter-spacing: 3px;
         word-spacing: 3px;
     }
+
     .footer .base-container-2 .copyright {
         margin-top: 40px;
         font-size: 16px;

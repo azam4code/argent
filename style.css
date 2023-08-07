@@ -394,13 +394,7 @@ textarea:focus {
     font-weight: 400;
 }
 
-@media(min-width:1930px) {
-    .card {
-        min-width: 550px;
-        margin: 0 auto;
-    }
 
-}
 
 @media(max-width:1440px) {
     .card-title {
@@ -611,6 +605,13 @@ textarea:focus {
         max-width: max-content;
         gap: 2vw;
     }
+}
+@media(min-width:1930px) {
+    .card {
+        width: 550px;
+        margin: 0 auto;
+    }
+
 }
 
 @media(min-width:2250px) {

@@ -326,6 +326,10 @@ textarea:focus {
     font-weight: 600;
 }
 
+.card-title:hover {
+    color: #233655;
+}
+
 .card-btn {
     text-decoration: none;
     display: flex;
